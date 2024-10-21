@@ -1,0 +1,21 @@
+*{
+  background-color: rgba(47, 18, 152, 0.813);
+  color:white;
+  padding: 5px;
+
+}
+
+.list-items{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+
+.change-color{
+  color:red;
+}
+
+.blue{
+  color: rgb(177, 209, 108);
+}
